@@ -60,14 +60,14 @@ ___
     
 ## ABOUT ME
 ```js
-const HilmySakti = () => {
+const Jason = () => {
   return {
     pronouns: "She" | "Her",
     technologies:{
         backEnd: "ExpressJs"
     },
     social:{
-        Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Hilmy+Ganteng+Mwehehehe",
+        Whatsapp : "https://api.whatsapp.com/send?phone=6281217779427&text=Hallo+Jason+Ganteng+Mwehehehe",
         Instagram : "https://www.instagram.com/HilmyShop.Official",
         Youtube : "https://www.youtube.com/channel/UCK3tm53XlprZXas76Vz5mAA"
     }
@@ -77,7 +77,7 @@ const HilmySakti = () => {
 ___
   
 # SUPPORT ME
-[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/HilmyGaming87)
+[![Trakteer](https://img.shields.io/badge/Click%20Here!-Trust%20Me-red)](https://trakteer.id/Gataukurangtau)
 
   *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
